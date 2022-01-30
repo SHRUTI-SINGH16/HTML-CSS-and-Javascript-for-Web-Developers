@@ -1,0 +1,108 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+  }
+  
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+    font-size: 16px;
+}
+
+#header-nav{
+    background-color: peru;
+    /* padding: 30px; */
+}
+
+.navbar-brand a{
+    text-decoration: none;
+    color: maroon;
+    font-weight: bold;
+    font-size: 30px ;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+    text-decoration: none;
+    color: maroon;
+    
+}
+
+.navbar-toggler span .iconbar{
+    color: blue;
+}
+  
+
+.row{
+    width: 100%;
+}
+  
+#title{
+    font-weight: bold;
+    font-size: 300%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 30px;
+}
+  
+.container{
+   position: relative;
+   top:40px;
+   /* margin: 30px;  */
+}
+  
+.food{
+    position: relative;
+    top: 0;
+    background-color:#C0C0C0;
+    margin: 15px;
+    padding: 25px;
+    border: 3px solid #000000;
+}
+  
+.food p{
+    margin-top: 28px;
+    text-align: justify;
+    font-size:100%;
+}
+  
+.heading{
+    position: absolute;
+    top: -2px;
+    right: -2px; 
+    padding: 2px 110px;
+    width:40%;
+    border: 3px solid #000000;
+    text-align: center;
+}
+  
+#heading-1 {
+    background-color:lightcoral;
+    
+} 
+  
+#heading-2{
+    background-color: peru;
+    
+}
+  
+#heading-3{
+    background-color:peachpuff;
+}
+  
+/********** Large devices only **********/
+@media (min-width: 992px) {
+    
+  
+    
+  }
+  
+  /********** Medium devices only **********/
+  @media (min-width: 768px) and (max-width: 991px) {
+    
+  }
+  
+  /********** Mobile only **********/
+  @media (max-width: 767px) {
+    
+    
+  }
