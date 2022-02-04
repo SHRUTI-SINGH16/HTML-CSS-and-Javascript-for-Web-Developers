@@ -8,3 +8,5 @@ Website link for module3-solution: https://shruti-singh16.github.io/HTML-CSS-and
 
 Website link for module4-solution: https://shruti-singh16.github.io/HTML-CSS-and-Javascript-for-Web-Developers/module4-solution/
 
+
+Website link for module5-solution: https://shruti-singh16.github.io/HTML-CSS-and-Javascript-for-Web-Developers/module5-solution/
